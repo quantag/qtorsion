@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-07-25 09:51:07",
+  "job_a": {
+    "id": "d21jelslir9s73aivrmg",
+    "counts": {
+      "0": 9432,
+      "1": 568
+    },
+    "shots": 10000,
+    "p_0": 0.9432,
+    "sigma": 0.00231
+  },
+  "job_b": {
+    "id": "d21jembni11c73fdn0ug",
+    "counts": {
+      "0": 9486,
+      "1": 514
+    },
+    "shots": 10000,
+    "p_0": 0.9486,
+    "sigma": 0.00221
+  },
+  "delta": 0.0054,
+  "sigma_total": 0.0032,
+  "z_value": 1.69
+}

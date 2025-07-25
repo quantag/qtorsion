@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-07-25 10:00:41",
+  "backend": "ibm_torino",
+  "shots": 10000,
+  "seed_transpiler": 42,
+  "jobs": [
+    {
+      "label": "A",
+      "job_id": "d21jjaq29d8c73ddula0",
+      "reverse": false,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "3109a21efffdc5fdd1a07a874f103cc9"
+    },
+    {
+      "label": "B",
+      "job_id": "d21jjb229d8c73ddulb0",
+      "reverse": true,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "db973c5caa66674ba862370f9e6cc55e"
+    }
+  ]
+}
