@@ -37,7 +37,7 @@ Execution backend: `ibmq_qasm_simulator` and real hardware backends such as `ibm
 
 Example plot:
 
-![Z-Values Over Time](figs/zvalues_over_time.png)
+![Z-Values Over Time](images/zvalues_over_time.png)
 
 ---
 
