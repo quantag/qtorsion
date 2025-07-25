@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-07-25 22:38:13",
+  "backend": "ibm_brussels",
+  "shots": 10000,
+  "seed_transpiler": 42,
+  "jobs": [
+    {
+      "label": "A",
+      "job_id": "d21ume5sd32c73bu7te0",
+      "reverse": false,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "3109a21efffdc5fdd1a07a874f103cc9"
+    },
+    {
+      "label": "B",
+      "job_id": "d21umedsd32c73bu7tf0",
+      "reverse": true,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "db973c5caa66674ba862370f9e6cc55e"
+    },
+    {
+      "label": "C",
+      "job_id": "d21umelsd32c73bu7tfg",
+      "reverse": false,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "3109a21efffdc5fdd1a07a874f103cc9"
+    }
+  ]
+}

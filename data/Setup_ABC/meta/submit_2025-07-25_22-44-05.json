@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-07-25 22:44:02",
+  "backend": "ibm_strasbourg",
+  "shots": 10000,
+  "seed_transpiler": 42,
+  "jobs": [
+    {
+      "label": "A",
+      "job_id": "d21up4r1nk8c73c72nq0",
+      "reverse": false,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "3109a21efffdc5fdd1a07a874f103cc9"
+    },
+    {
+      "label": "B",
+      "job_id": "d21up55sd32c73bu848g",
+      "reverse": true,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "db973c5caa66674ba862370f9e6cc55e"
+    },
+    {
+      "label": "C",
+      "job_id": "d21up5dsd32c73bu84b0",
+      "reverse": false,
+      "phi": 0.7853981633974483,
+      "theta": 1.0471975511965976,
+      "qasm3_hash": "3109a21efffdc5fdd1a07a874f103cc9"
+    }
+  ]
+}
